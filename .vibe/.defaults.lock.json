@@ -1,0 +1,221 @@
+{
+	"version": 1,
+	"files": {
+		"agents.example.jsonc": {
+			"release": "9a1338935b58707de151dbf176c42def927e2dad",
+			"local": "9a1338935b58707de151dbf176c42def927e2dad"
+		},
+		"design/components.md": {
+			"release": "a88fe9e6e8be25d224d4e745cbf46b5980996b25",
+			"local": "a88fe9e6e8be25d224d4e745cbf46b5980996b25"
+		},
+		"design/uiKit.md": {
+			"release": "1276054a7206b558eec6ef4a6e16c8124610efdc",
+			"local": "1276054a7206b558eec6ef4a6e16c8124610efdc"
+		},
+		"hooks.example.jsonc": {
+			"release": "52b38263cf9713485eb93e9109d12459f9412ff8",
+			"local": "52b38263cf9713485eb93e9109d12459f9412ff8"
+		},
+		"learning/MISSION.example.md": {
+			"release": "7dc8dbcd2ff0763569db41ee486d79aebdcba8b3",
+			"local": "7dc8dbcd2ff0763569db41ee486d79aebdcba8b3"
+		},
+		"pipelines.example.jsonc": {
+			"release": "d8935c9f4b737d8b5eade959899f9f41d62527fe",
+			"local": "d8935c9f4b737d8b5eade959899f9f41d62527fe"
+		},
+		"prompts/CLAUDE-FABLE-5.md": {
+			"release": "a81ed528318fdc166ee2c57b49f6f867c7ac4dda",
+			"local": "a81ed528318fdc166ee2c57b49f6f867c7ac4dda"
+		},
+		"prompts/deep-review.md": {
+			"release": "8cb46f49d6aab2c46fa46e7d0ef3a606ad148dd4",
+			"local": "8cb46f49d6aab2c46fa46e7d0ef3a606ad148dd4"
+		},
+		"prompts/example.md": {
+			"release": "55285840e9853aa8b752c72b4cf338c05337e436",
+			"local": "55285840e9853aa8b752c72b4cf338c05337e436"
+		},
+		"prompts/pipeline.md": {
+			"release": "a4bee0c8f3370b4327620f577d355b3cf16fae23",
+			"local": "a4bee0c8f3370b4327620f577d355b3cf16fae23"
+		},
+		"providers.example.jsonc": {
+			"release": "4a2baae6b8377cbc9ee79527662cdde31e45d7b5",
+			"local": "4a2baae6b8377cbc9ee79527662cdde31e45d7b5"
+		},
+		"providers/README.md": {
+			"release": "37eb88c3255517b80e8d5ba426122b0d81a301eb",
+			"local": "37eb88c3255517b80e8d5ba426122b0d81a301eb"
+		},
+		"providers/_template-openai-compatible.jsonc": {
+			"release": "97311b24c39603e1a12ef0d7c394a085bc7360ab",
+			"local": "97311b24c39603e1a12ef0d7c394a085bc7360ab"
+		},
+		"providers/alibaba-coding-plan.jsonc": {
+			"release": "1ec3a8c5982878bd4aefaa958fae25cb3f24c392",
+			"local": "1ec3a8c5982878bd4aefaa958fae25cb3f24c392"
+		},
+		"providers/deepseek-v4.jsonc": {
+			"release": "e81772fe66760817405267e4eff2806d8dd3ca91",
+			"local": "e81772fe66760817405267e4eff2806d8dd3ca91"
+		},
+		"providers/meta-muse.jsonc": {
+			"release": "2202c5a8689a26d1648084cee0d8027d091a5c3a",
+			"local": "2202c5a8689a26d1648084cee0d8027d091a5c3a"
+		},
+		"providers/minimax.jsonc": {
+			"release": "c9e5f9514941687797a1780583a1155be6c6d3f3",
+			"local": "c9e5f9514941687797a1780583a1155be6c6d3f3"
+		},
+		"providers/moonshot-kimi.jsonc": {
+			"release": "c0f8b38d249bd0d88b3d040c88ef20ebefedb327",
+			"local": "c0f8b38d249bd0d88b3d040c88ef20ebefedb327"
+		},
+		"providers/muse-glimmer-local.jsonc": {
+			"release": "2d5d408fdb2f89a8207d7349f1df0cdd6dbe18bc",
+			"local": "2d5d408fdb2f89a8207d7349f1df0cdd6dbe18bc"
+		},
+		"providers/openai-gpt56.jsonc": {
+			"release": "940df439ad2d1584b9d8083c30261a3ab2ac6aac",
+			"local": "940df439ad2d1584b9d8083c30261a3ab2ac6aac"
+		},
+		"providers/zai.jsonc": {
+			"release": "08f23ab8028183a4163ec527021271cf3c672827",
+			"local": "08f23ab8028183a4163ec527021271cf3c672827"
+		},
+		"rules/clean-rules.mdc": {
+			"release": "f70403be21a04fc8893a23be2581323c1432acf8",
+			"local": "f70403be21a04fc8893a23be2581323c1432acf8"
+		},
+		"rules/dev-engine.mdc": {
+			"release": "b80a153c5f680386f85f2c0ec957389e4ff55155",
+			"local": "b80a153c5f680386f85f2c0ec957389e4ff55155"
+		},
+		"rules/knowledge.mdc": {
+			"release": "0032b07c1086961f6328b260850c2a536129138a",
+			"local": "0032b07c1086961f6328b260850c2a536129138a"
+		},
+		"rules/nginx.mdc": {
+			"release": "77d111881256b040f010b4bd0f7e8204ac7ea378",
+			"local": "77d111881256b040f010b4bd0f7e8204ac7ea378"
+		},
+		"rules/pipeline.mdc": {
+			"release": "f58e7274c168eddc25379335d193ebaca0384baa",
+			"local": "f58e7274c168eddc25379335d193ebaca0384baa"
+		},
+		"rules/providers-json.mdc": {
+			"release": "cd2d080836beda246dfcc5c2874634ac47ef828b",
+			"local": "cd2d080836beda246dfcc5c2874634ac47ef828b"
+		},
+		"rules/release.mdc": {
+			"release": "3180f5422cc1dc9f831ce20ba09d1d3881a19478",
+			"local": "3180f5422cc1dc9f831ce20ba09d1d3881a19478"
+		},
+		"rules/roadmap-autopilot.mdc": {
+			"release": "f00c5937b3a2215d9ef159318a45cf413a9421a5",
+			"local": "f00c5937b3a2215d9ef159318a45cf413a9421a5"
+		},
+		"rules/roadmap.mdc": {
+			"release": "fac9356bb9e3644b321c9fb9fec74bb2d748f485",
+			"local": "fac9356bb9e3644b321c9fb9fec74bb2d748f485"
+		},
+		"rules/script-save.mdc": {
+			"release": "2a343b349506161d863ed1b18afb571c75a91401",
+			"local": "2a343b349506161d863ed1b18afb571c75a91401"
+		},
+		"rules/spec-first.mdc": {
+			"release": "7b575da43b75a92547dfb5083392878695b70705",
+			"local": "7b575da43b75a92547dfb5083392878695b70705"
+		},
+		"rules/ui-kit.mdc": {
+			"release": "4778171a8154f93b3544c2c1fb5e66221ef05b89",
+			"local": "4778171a8154f93b3544c2c1fb5e66221ef05b89"
+		},
+		"rules/verification.mdc": {
+			"release": "e1fc197d284dbb10a40e4315ff3f369518bcad89",
+			"local": "e1fc197d284dbb10a40e4315ff3f369518bcad89"
+		},
+		"rules/versioning.mdc": {
+			"release": "66256ad6e5a343ba7c6894c54799b632286a61ab",
+			"local": "66256ad6e5a343ba7c6894c54799b632286a61ab"
+		},
+		"servers.example.jsonc": {
+			"release": "1cf33480710218c3f9f97139453bb17169fdc138",
+			"local": "1cf33480710218c3f9f97139453bb17169fdc138"
+		},
+		"skills/design-vocabulary/SKILL.md": {
+			"release": "d62e17060eea927f589dfbaaed5eb2732960fd85",
+			"local": "d62e17060eea927f589dfbaaed5eb2732960fd85"
+		},
+		"skills/example/SKILL.md": {
+			"release": "917c8e2d1427ce8a1435202b6bccb168660d8116",
+			"local": "917c8e2d1427ce8a1435202b6bccb168660d8116"
+		},
+		"skills/grill/SKILL.md": {
+			"release": "7f9e0620ce86e8c68f8f6ea2ac591e25f2ece33d",
+			"local": "7f9e0620ce86e8c68f8f6ea2ac591e25f2ece33d"
+		},
+		"skills/implement-specs/SKILL.md": {
+			"release": "69077977b872e39f0a5c6bbeb57ce4741b57bec4",
+			"local": "69077977b872e39f0a5c6bbeb57ce4741b57bec4"
+		},
+		"skills/optimize-by-metric/SKILL.md": {
+			"release": "e04b95dfcba1f0daf5102b61637d7a38bf2d924c",
+			"local": "e04b95dfcba1f0daf5102b61637d7a38bf2d924c"
+		},
+		"skills/party/SKILL.md": {
+			"release": "1b52bf56b9f70adabf2e995a12ee3bdbf157ed70",
+			"local": "1b52bf56b9f70adabf2e995a12ee3bdbf157ed70"
+		},
+		"skills/resolve-merge-conflicts/SKILL.md": {
+			"release": "dcba51988d42370df9a1680bdb04637a95ef8579",
+			"local": "dcba51988d42370df9a1680bdb04637a95ef8579"
+		},
+		"skills/resolve-merge-conflicts/scripts/extract_conflict_context.py": {
+			"release": "cdb273d01410094fc9e139ff25b3699fde072e9e",
+			"local": "cdb273d01410094fc9e139ff25b3699fde072e9e"
+		},
+		"skills/review-pr/SKILL.md": {
+			"release": "c842b430bc6cd41aa584a16c7f5f07ffa935a8cc",
+			"local": "c842b430bc6cd41aa584a16c7f5f07ffa935a8cc"
+		},
+		"skills/roadmap-autopilot/SKILL.md": {
+			"release": "6304a8a8ae99b93648300a43dc741b98a73c7be4",
+			"local": "6304a8a8ae99b93648300a43dc741b98a73c7be4"
+		},
+		"skills/spec-driven-implementation/SKILL.md": {
+			"release": "e5fc41b5d9395188d71ae287228dcf8616d81499",
+			"local": "e5fc41b5d9395188d71ae287228dcf8616d81499"
+		},
+		"skills/teach/SKILL.md": {
+			"release": "02024f1a210f4e647d88bfa599a1d07e3ed40a4b",
+			"local": "02024f1a210f4e647d88bfa599a1d07e3ed40a4b"
+		},
+		"skills/update-skill/SKILL.md": {
+			"release": "3d393d4453cd5244042c40592a2f67b7cda02d51",
+			"local": "3d393d4453cd5244042c40592a2f67b7cda02d51"
+		},
+		"skills/update-skill/references/best-practices.md": {
+			"release": "65d96786ce4bb1a425649946e8a0b31b32aafc73",
+			"local": "65d96786ce4bb1a425649946e8a0b31b32aafc73"
+		},
+		"skills/write-product-spec/SKILL.md": {
+			"release": "d6d7b4bbe6dcd8b214af69e1bcc4b595ffd027b5",
+			"local": "d6d7b4bbe6dcd8b214af69e1bcc4b595ffd027b5"
+		},
+		"skills/write-product-spec/references/PRODUCT.skeleton.md": {
+			"release": "5b781302dde81de5783b55f411b2bade897ec0f2",
+			"local": "5b781302dde81de5783b55f411b2bade897ec0f2"
+		},
+		"skills/write-tech-spec/SKILL.md": {
+			"release": "5e92d5386699ea56ad8139760e0632ef058cba47",
+			"local": "5e92d5386699ea56ad8139760e0632ef058cba47"
+		},
+		"skills/write-tech-spec/references/TECH.skeleton.md": {
+			"release": "7b71cdaed5f89e6b94d563283816f39bf5482f93",
+			"local": "7b71cdaed5f89e6b94d563283816f39bf5482f93"
+		}
+	}
+}
