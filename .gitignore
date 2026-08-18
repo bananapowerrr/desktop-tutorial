@@ -3,3 +3,4 @@ __pycache__/
 *.tar.gz
 .env
 openssl/
+service-account.json
