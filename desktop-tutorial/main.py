@@ -1,0 +1,1 @@
+Контекст: корень git-репозитория (имя репы desktop-tutorial) — сама папка D:\Workspace. Папки шины incoming/done/errors лежат в G:\Мой диск\AgentBus, а НЕ в проекте. Задача: Overwrite main.py with EXACTLY this text:
